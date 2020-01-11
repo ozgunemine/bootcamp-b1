@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace net_core_bootcamp_b1.Controllers
+namespace net_core_bootcamp_b1_ozgun.Controllers
 {
     [Route("api/[controller]")]
     [Produces("application/json")]

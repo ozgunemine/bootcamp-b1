@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace net_core_bootcamp_b1
+namespace net_core_bootcamp_b1_ozgun
 {
     public class Product
     {
