@@ -44,7 +44,8 @@ namespace net_core_bootcamp_b1
 
             services.AddControllers();
 
-            //DI
+            // DI
+            services.AddSingleton<IProductService, ProductService>();
             services.AddSingleton<IEventService, EventService>();
         }
 

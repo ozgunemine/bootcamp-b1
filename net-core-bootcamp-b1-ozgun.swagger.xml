@@ -4,11 +4,24 @@
         <name>net-core-bootcamp-b1-ozgun</name>
     </assembly>
     <members>
-        <member name="M:net_core_bootcamp_b1_ozgun.Controllers.ProductController.Get(System.String)">
+        <member name="M:net_core_bootcamp_b1_ozgun.Controllers.ProductController.Add(net_core_bootcamp_b1_ozgun.DTOs.ProductAddDto)">
+            <summary>
+             Git Example Changes
+            </summary>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+        <member name="M:net_core_bootcamp_b1_ozgun.Controllers.ProductController.Update(net_core_bootcamp_b1_ozgun.DTOs.ProductUpdateDto)">
+            <summary>
+             Git example master
+            </summary>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+        <member name="M:net_core_bootcamp_b1_ozgun.Controllers.ProductController.Get">
             <summary>
             Get All Products
-            </summary>
-            <param name="name"></param>
+            </summary>        
             <returns></returns>
         </member>
     </members>
